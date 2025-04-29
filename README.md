@@ -6,6 +6,8 @@ We know that SG government is fiscally prudent and we want to know the driving f
 
 We realised early on that we can reconcile the Overall Fiscal Position against Revenue and Expenditure*. We did a pivot using Total Expenditure table and found out: Overall Fiscal Position = Total Revenue – Total Expenditure
 
+We came up with four hypothesis and did our anaysis using python libraries to draw our conclusion.
+
 Hypothesis 1: 
 If govt fiscal position is negative this year, in the next year, the total operating expenditure will decrease. To do this, I need to combine fiscal position and government total expenditure tables. I need to calculate change in total operating expenditure between this year and previous year. I can use scatterplot to take overall last year's fiscal position from fp to compare against this year's change in total operating expenditure
 
